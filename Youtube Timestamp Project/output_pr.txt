@@ -1,0 +1,51 @@
+@Query What is some interesting news in ML?
+
+How-to Structure a Q&A ML App: https://youtu.be/4Jmq28RQ3hU&t=350
+[ML News] Microsoft combines Images &amp; Text | Meta makes artificial skin | Russians replicate DALL-E: https://youtu.be/n622girLRNM&t=1883
+[ML News] DeepMind&#39;s Flamingo Image-Text model | Locked-Image Tuning | Jurassic X &amp; MRKL: https://youtu.be/smUHQndcmOY&t=6
+[ML News] Google introduces Pathways | OpenAI solves Math Problems | Meta goes First Person: https://youtu.be/G7-fRGaCZts&t=2174
+Optimizing Neural Network Structures with Keras-Tuner: https://youtu.be/vvC15l4CY1Q&t=185
+Making The Most of Data: Augmented SBERT: https://youtu.be/3IPCEeh4xTg&t=385
+SynFlow: Pruning neural networks without any data by iteratively conserving synaptic flow: https://youtu.be/8l-TDqpoUQs&t=241
+Streamlit for ML #5.1 - Custom React Components in Streamlit Setup: https://youtu.be/SGazDb8o-to&t=0
+Naive Bayes - Natural Language Processing With Python and NLTK p.13: https://youtu.be/rISOsUaTrO4&t=0
+GPIO Basics with LED light - Raspberry Pi and Python tutorials p.6: https://youtu.be/WLo5Rgvj6qo&t=0
+
+@Query How to build question and answer models
+
+API Series #3 - How to Deploy Flask APIs to the Cloud (GCP): https://youtu.be/3fsIcMgUOY8&t=499
+Choosing Indexes for Similarity Search (Faiss in Python): https://youtu.be/B7wmo_NImgM&t=691
+How to Index Q&A Data With Haystack and Elasticsearch: https://youtu.be/Vwq7Ucp9UCw&t=0
+Locality Sensitive Hashing (LSH) for Search with Shingling + MinHashing (Python): https://youtu.be/e_SBq3s20M8&t=0
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift: https://youtu.be/OioFONrSETc&t=0
+GPIO Basics with LED light - Raspberry Pi and Python tutorials p.6: https://youtu.be/WLo5Rgvj6qo&t=0
+SynFlow: Pruning neural networks without any data by iteratively conserving synaptic flow: https://youtu.be/8l-TDqpoUQs&t=0
+Line Finding with Hough Lines - Python plays Grand Theft Auto 5 p.5: https://youtu.be/lhMXDqQHf9g&t=0
+How-to use the Kaggle API in Python: https://youtu.be/DgGFhQmfxHo&t=0
+API Series #2 - Building an API with Flask in Python: https://youtu.be/MF75aNH3Gjs&t=0
+
+@Query Fun things AI can do
+
+[ML News] Microsoft combines Images &amp; Text | Meta makes artificial skin | Russians replicate DALL-E: https://youtu.be/n622girLRNM&t=396
+[ML News] Google introduces Pathways | OpenAI solves Math Problems | Meta goes First Person: https://youtu.be/G7-fRGaCZts&t=399
+Faiss - Introduction to Similarity Search: https://youtu.be/sKyvsdEv6rk&t=27
+[ML News] DeepMind&#39;s Flamingo Image-Text model | Locked-Image Tuning | Jurassic X &amp; MRKL: https://youtu.be/smUHQndcmOY&t=1365
+I COOKED A RECIPE MADE BY A.I. | Cooking with GPT-3 (Don&#39;t try this at home): https://youtu.be/hIoCn_9QTVU&t=7
+How to Build Q&A Models in Python (Transformers): https://youtu.be/scJsty_DR3o&t=238
+How to Index Q&A Data With Haystack and Elasticsearch: https://youtu.be/Vwq7Ucp9UCw&t=0
+Line Finding with Hough Lines - Python plays Grand Theft Auto 5 p.5: https://youtu.be/lhMXDqQHf9g&t=934
+How-to use the Kaggle API in Python: https://youtu.be/DgGFhQmfxHo&t=0
+Q&A Document Retrieval With DPR: https://youtu.be/DBsxUSUhfRg&t=229
+
+@Query What are neural networks?
+
+How-to do Sentiment Analysis with Flair in Python: https://youtu.be/DFtP1THE8fE&t=0
+How to Build Q&A Models in Python (Transformers): https://youtu.be/scJsty_DR3o&t=0
+How-to Structure a Q&A ML App: https://youtu.be/4Jmq28RQ3hU&t=0
+Streamlit for ML #5.1 - Custom React Components in Streamlit Setup: https://youtu.be/SGazDb8o-to&t=0
+How-to use the Kaggle API in Python: https://youtu.be/DgGFhQmfxHo&t=0
+Training BERT #5 - Training With BertForPretraining: https://youtu.be/IC9FaVPKlYc&t=0
+API Series #3 - How to Deploy Flask APIs to the Cloud (GCP): https://youtu.be/3fsIcMgUOY8&t=0
+The NEW Match-Case Statement in Python 3.10: https://youtu.be/2qJavL-VX9Y&t=0
+How to build a Q&A AI in Python (Open-domain Question-Answering): https://youtu.be/w1dMEWm7jBc&t=0
+Adding a tutorial option - Tkinter tutorial Python 3.4 part 19: https://youtu.be/-bTuXf1xM_8&t=0
