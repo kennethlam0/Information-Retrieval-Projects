@@ -1,4 +1,0 @@
-What is some interesting news in ML?
-How to build question and answer models
-Fun things AI can do
-What are neural networks?
