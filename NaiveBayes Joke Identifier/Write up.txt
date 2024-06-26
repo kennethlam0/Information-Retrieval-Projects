@@ -1,0 +1,13 @@
+Overview 
+This project aims to develop and evaluate a Naive Bayes classifier for distinguishing between jokes and non-jokes. The classifier will be trained and tested on datasets comprising one-liners, both manually collected from AI chatbots and one provided in a structured dataset.
+
+File Descriptions
+1. Files
+naivebayes.py: The main Python script implementing the Naive Bayes classifier.
+naivebayes.output.jokes: Output from the classifier for the jokes dataset. Accuracy of classifier is at bottom of file. 
+naivebayes.output.AI-jokes: Output from the classifier for the second dataset of AI jokes. Accuracy of classifier is at bottom of file.
+naivebayes.answers: Contains the write-up of classifier accuracies and analysis of the most predictive features.
+2. naivebayes.py details 
+trainNaiveBayes: Function to train the Naive Bayes classifier using the specified training files. Outputs include class probabilities, word conditional probabilities, and other parameters.
+testNaiveBayes: Function to predict whether a new document (text file) is a joke or a non-joke based on the trained model.
+Main executable section: Manages reading of data files, execution of training and testing, and computes overall classification accuracy.
